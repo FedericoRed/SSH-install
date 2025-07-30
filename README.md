@@ -3,7 +3,9 @@
 *abilitare la porta dal firewall*
 
 ```
-in caso di probelmi abilitare anche la porta 
+in caso di probelmi con ftp abilitare anche la porta 20-21
+
+sftp porta 22
 ```
 
 1)
