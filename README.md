@@ -30,6 +30,7 @@ sftp porta 22
 <img width="551" height="329" alt="fire7" src="https://github.com/user-attachments/assets/e7e6c014-bc99-43d6-baa2-27104a3c98c3" />
 
 
+
 *powershell con diritti da amministratore*
 ```
 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
