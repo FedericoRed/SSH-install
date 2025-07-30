@@ -22,5 +22,7 @@ Get_Service -Name sshd
 
 *collegamento client-macchina destinazione*
 ```
-ssh NOME_UTENTE_MACCHINA_DESTINAZIONE@INDIRIZZO_MACCHINA_DESTINAZIONE
+powershell con amministratore sul TUO PC
+
+ssh NOME_UTENTE_MACCHINA_REMOTA@INDIRIZZO_MACCHINA_REMOTA
 ```
