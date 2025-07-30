@@ -1,5 +1,13 @@
 # server SSH-install
 
+*abilitare la porta dal firewall*
+```
+<img width="189" height="98" alt="fire1" src="https://github.com/user-attachments/assets/cc90865b-0658-4ada-a873-6dff76e7aec6" />
+
+```
+
+
+
 *powershell con diritti da amministratore*
 ```
 Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
