@@ -1,8 +1,8 @@
 # server SSH-install
 
-*powershell*
+*powershell con diritti da amministratore*
 ```
-powershell: Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
+Add-WindowsCapability -Online -Name OpenSSH.Server~~~~0.0.1.0
 ```
 
 *controlla se esiste*
@@ -13,5 +13,14 @@ Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH.Server*'
 ```
 Start-Service sshd
 Set-Service -Name sshd -StartupType 'Automatic'
+```
 
+*controlla se il servizio è in esecuzione*
+```
+Get_Service -Name sshd
+```
+
+*collegamento client-macchina destinazione*
+```
+ssh NOME_UTENTE_MACCHINA_DESTINAZIONE@INDIRIZZO_MACCHINA_DESTINAZIONE
 ```
