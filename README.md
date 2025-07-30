@@ -1,10 +1,8 @@
 # server SSH-install
 
 *abilitare la porta dal firewall*
-```
-<img width="189" height="98" alt="fire1" src="https://github.com/user-attachments/assets/cc90865b-0658-4ada-a873-6dff76e7aec6" />
 
-```
+<img width="189" height="98" alt="fire1" src="https://github.com/user-attachments/assets/b14d1821-7ad8-4601-9cf0-775a1ca51c3c" />
 
 
 
