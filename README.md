@@ -2,6 +2,10 @@
 
 *abilitare la porta dal firewall*
 
+```
+in caso di probelmi abilitare anche la porta 
+```
+
 1)
 <img width="189" height="98" alt="fire1" src="https://github.com/user-attachments/assets/b14d1821-7ad8-4601-9cf0-775a1ca51c3c" />
 
@@ -10,6 +14,18 @@
 
 3)
 <img width="677" height="309" alt="fire3" src="https://github.com/user-attachments/assets/519193b3-de0b-4292-897f-adc0fa3174ac" />
+
+4)
+<img width="492" height="181" alt="fire4" src="https://github.com/user-attachments/assets/91475c71-7e4b-4c06-b56f-3a7a248aee41" />
+
+5)
+<img width="527" height="247" alt="fire5" src="https://github.com/user-attachments/assets/0bb8ad42-6561-456f-8f16-baefa05b2adf" />
+
+6)
+<img width="455" height="205" alt="fire6" src="https://github.com/user-attachments/assets/f185588f-499b-46da-93cb-85548b69dcfb" />
+
+7)
+<img width="551" height="329" alt="fire7" src="https://github.com/user-attachments/assets/e7e6c014-bc99-43d6-baa2-27104a3c98c3" />
 
 
 *powershell con diritti da amministratore*
